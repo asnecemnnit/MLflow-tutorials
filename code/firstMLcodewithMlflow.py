@@ -31,7 +31,7 @@ if __name__ == "__main__":
     np.random.seed(40)
 
     # Read the wine-quality csv file from local
-    data = pd.read_csv("red-wine-quality.csv")
+    data = pd.read_csv("dataset/red-wine-quality.csv")
     data.to_csv("data/red-wine-quality.csv", index=False)
 
     # Split the data into training and test sets. (0.75, 0.25) split.
@@ -48,6 +48,7 @@ if __name__ == "__main__":
     exp = mlflow.set_experiment(experiment_name="experment_1")
 
     with mlflow.start_run(experiment_id=exp.experiment_id):
+        # Model training code comes under mlflow start run
         lr = ElasticNet(alpha=alpha, l1_ratio=l1_ratio, random_state=42)
         lr.fit(train_x, train_y)
 
