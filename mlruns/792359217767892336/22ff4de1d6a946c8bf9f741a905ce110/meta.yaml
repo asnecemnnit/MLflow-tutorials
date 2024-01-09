@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ashishsingh/github/MLflow-tutorials/mlruns/792359217767892336/22ff4de1d6a946c8bf9f741a905ce110/artifacts
+end_time: 1704842858527
+entry_point_name: ''
+experiment_id: '792359217767892336'
+lifecycle_stage: active
+run_id: 22ff4de1d6a946c8bf9f741a905ce110
+run_name: shivering-conch-358
+run_uuid: 22ff4de1d6a946c8bf9f741a905ce110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704842855901
+status: 3
+tags: []
+user_id: ashishsingh
