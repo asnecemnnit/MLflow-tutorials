@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ashishsingh/github/MLflow-tutorials/mlruns/274470393008710039/da43fdcdac25437698ef1a2bcacf0204/artifacts
+end_time: 1704843597916
+entry_point_name: ''
+experiment_id: '274470393008710039'
+lifecycle_stage: active
+run_id: da43fdcdac25437698ef1a2bcacf0204
+run_name: selective-skink-807
+run_uuid: da43fdcdac25437698ef1a2bcacf0204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704843595346
+status: 3
+tags: []
+user_id: ashishsingh
