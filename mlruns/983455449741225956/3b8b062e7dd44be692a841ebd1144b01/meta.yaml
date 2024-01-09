@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ashishsingh/github/MLflow-tutorials/mlruns/983455449741225956/3b8b062e7dd44be692a841ebd1144b01/artifacts
+end_time: 1704841044600
+entry_point_name: ''
+experiment_id: '983455449741225956'
+lifecycle_stage: active
+run_id: 3b8b062e7dd44be692a841ebd1144b01
+run_name: dashing-gnu-747
+run_uuid: 3b8b062e7dd44be692a841ebd1144b01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704841041703
+status: 3
+tags: []
+user_id: ashishsingh
