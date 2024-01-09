@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ashishsingh/github/MLflow-tutorials/mlruns/983455449741225956/f02d0cb76add4f43bb5e03b08b3309dc/artifacts
+end_time: 1704824809193
+entry_point_name: ''
+experiment_id: '983455449741225956'
+lifecycle_stage: active
+run_id: f02d0cb76add4f43bb5e03b08b3309dc
+run_name: melodic-ant-578
+run_uuid: f02d0cb76add4f43bb5e03b08b3309dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704824806513
+status: 3
+tags: []
+user_id: ashishsingh
