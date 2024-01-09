@@ -45,7 +45,7 @@ if __name__ == "__main__":
     alpha = args.alpha
     l1_ratio = args.l1_ratio
     
-    mlflow.set_tracking_uri(uri="custom_path")
+    mlflow.set_tracking_uri(uri="custom_track_path")
     
     print("The set tracking uri is ", mlflow.get_tracking_uri())
     
