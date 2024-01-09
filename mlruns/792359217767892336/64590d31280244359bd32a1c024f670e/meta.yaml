@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ashishsingh/github/MLflow-tutorials/mlruns/792359217767892336/64590d31280244359bd32a1c024f670e/artifacts
+end_time: 1704842368866
+entry_point_name: ''
+experiment_id: '792359217767892336'
+lifecycle_stage: active
+run_id: 64590d31280244359bd32a1c024f670e
+run_name: vaunted-lamb-648
+run_uuid: 64590d31280244359bd32a1c024f670e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704842366411
+status: 3
+tags: []
+user_id: ashishsingh
