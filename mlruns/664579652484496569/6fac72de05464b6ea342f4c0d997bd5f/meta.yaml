@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ashishsingh/github/MLflow-tutorials/myartifacts/6fac72de05464b6ea342f4c0d997bd5f/artifacts
+end_time: 1704839940573
+entry_point_name: ''
+experiment_id: '664579652484496569'
+lifecycle_stage: active
+run_id: 6fac72de05464b6ea342f4c0d997bd5f
+run_name: hilarious-eel-474
+run_uuid: 6fac72de05464b6ea342f4c0d997bd5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704839938064
+status: 3
+tags: []
+user_id: ashishsingh
