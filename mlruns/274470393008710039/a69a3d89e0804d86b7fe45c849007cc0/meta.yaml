@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ashishsingh/github/MLflow-tutorials/mlruns/274470393008710039/a69a3d89e0804d86b7fe45c849007cc0/artifacts
+end_time: 1704848898214
+entry_point_name: ''
+experiment_id: '274470393008710039'
+lifecycle_stage: active
+run_id: a69a3d89e0804d86b7fe45c849007cc0
+run_name: enthused-turtle-718
+run_uuid: a69a3d89e0804d86b7fe45c849007cc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704848895748
+status: 3
+tags: []
+user_id: ashishsingh
