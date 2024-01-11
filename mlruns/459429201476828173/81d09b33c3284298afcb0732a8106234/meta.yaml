@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ashishsingh/github/MLflow-tutorials/mlruns/459429201476828173/81d09b33c3284298afcb0732a8106234/artifacts
+end_time: 1704947965779
+entry_point_name: ''
+experiment_id: '459429201476828173'
+lifecycle_stage: active
+run_id: 81d09b33c3284298afcb0732a8106234
+run_name: burly-wolf-665
+run_uuid: 81d09b33c3284298afcb0732a8106234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704947962209
+status: 3
+tags: []
+user_id: ashishsingh

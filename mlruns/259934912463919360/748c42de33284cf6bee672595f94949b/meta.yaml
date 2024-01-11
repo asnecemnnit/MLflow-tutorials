@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ashishsingh/github/MLflow-tutorials/mlruns/259934912463919360/748c42de33284cf6bee672595f94949b/artifacts
+end_time: 1704947740580
+entry_point_name: ''
+experiment_id: '259934912463919360'
+lifecycle_stage: active
+run_id: 748c42de33284cf6bee672595f94949b
+run_name: abundant-crab-717
+run_uuid: 748c42de33284cf6bee672595f94949b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704947737752
+status: 3
+tags: []
+user_id: ashishsingh
