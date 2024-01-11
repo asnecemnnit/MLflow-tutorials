@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ashishsingh/github/MLflow-tutorials/mlruns/946513315042804682/44a182041aa5465b8e7df32fe67d5182/artifacts
+end_time: 1704947226280
+entry_point_name: ''
+experiment_id: '946513315042804682'
+lifecycle_stage: active
+run_id: 44a182041aa5465b8e7df32fe67d5182
+run_name: run3.1
+run_uuid: 44a182041aa5465b8e7df32fe67d5182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704947224229
+status: 3
+tags: []
+user_id: ashishsingh
